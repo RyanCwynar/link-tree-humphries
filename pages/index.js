@@ -18,7 +18,7 @@ function IndexPage() {
     <div className="flex flex-col min-h-screen">
       {/* FontAwesome CDN style tag */}
       <Head>
-        <title>Ryan | byldr.eth</title>
+        <title>Ryan | 0xbacon.eth</title>
         <meta
           name="description"
           content="Quick links to important things."
